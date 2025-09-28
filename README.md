@@ -1,15 +1,9 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <title>OLA Ride Sharing — India (July 2024)</title>
-</head>
 <body>
 
-  <h1>OLA Ride Sharing — India (July 2024)</h1>
-
-  <p><strong>One-line summary:</strong><br>
-  This project prepares and analyses Ola ride-sharing data (July 2024) to surface operational, revenue and service-quality insights and recommend actions to improve cab & bike operations across India.</p>
+  <h1>OLA Ride Sharing — India</h1>
+  This data project prepares and analyses Ola ride-sharing data (July 2024) to surface operational, revenue and service-quality insights and recommend actions to improve cab & bike operations across India.</p>
 
   <hr>
 
@@ -148,8 +142,9 @@ python "Python Script/ingest_to_mysql.py"
   <h2 id="author">👤 Author / Contact</h2>
   <p><strong>Author:</strong> Umar — Data Analyst & Aspiring Data Scientist</p>
   <p><strong>Email:</strong> umarofficial073@gmail.com</p>
-  - [LinkedIn](https://www.linkedin.com/in/hereumar/)
-  - [Portfolio](https://mushtaqumar.github.io/JS-Personal-Portfolio/)
+  <p><strong>LinkedIn:</strong> https://www.linkedin.com/in/hereumar/</p>
+  <p><strong>Portfolio:</strong>https://mushtaqumar.github.io/JS-Personal-Portfolio/ </p>
 
 </body>
 </html>
+
